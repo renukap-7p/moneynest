@@ -1,19 +1,19 @@
-# @babel/compat-data
+# @babel/helper-module-imports
 
-> The compat-data to determine required Babel plugins
+> Babel helper functions for inserting module loads
 
-See our website [@babel/compat-data](https://babeljs.io/docs/babel-compat-data) for more information.
+See our website [@babel/helper-module-imports](https://babeljs.io/docs/babel-helper-module-imports) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/compat-data
+npm install --save @babel/helper-module-imports
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/compat-data
+yarn add @babel/helper-module-imports
 ```
