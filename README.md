@@ -1,19 +1,19 @@
-# @babel/helper-module-imports
+# @babel/helper-plugin-utils
 
-> Babel helper functions for inserting module loads
+> General utilities for plugins to use
 
-See our website [@babel/helper-module-imports](https://babeljs.io/docs/babel-helper-module-imports) for more information.
+See our website [@babel/helper-plugin-utils](https://babeljs.io/docs/babel-helper-plugin-utils) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-module-imports
+npm install --save @babel/helper-plugin-utils
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-module-imports
+yarn add @babel/helper-plugin-utils
 ```
